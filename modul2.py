@@ -6,11 +6,10 @@ Booleans
 Jämförelser
 """
 
-# Låt detta program köras i en loop tills användaren skriver "quit" för att avsluta
 
 # Skriv ut en meny med alternativ för användaren
 
-# Låt användaren välja ett alternativ
+# Låt användaren välja ett av alternativen nedan
 
 # Om användaren väljer 1: Skriv ut "Hej!"
 
